@@ -19,7 +19,7 @@ h1 {
     font-size: 3rem;
     text-align: center;
     font-weight: normal;
-    color: rgb(255, 6, 110);
+    color: rgb(255, 238, 0);
 }
 
 .countdown_container {
@@ -44,21 +44,21 @@ h1 {
 .countdown-el span {
     font-size: 1.3rem;
     padding-top: -100px;
-    color: red;
+    color: rgb(255, 255, 255);
 }
 
 #days {
-    color: red;
+    color: rgb(255, 122, 122);
 }
 
 #hours {
-    color: green;
+    color: rgb(113, 255, 113);
 }
 
 #mins {
-    color: blue;
+    color: rgb(98, 98, 255);
 }
 
 #seconds {
-    color: rgb(32, 80, 0);
+    color: rgb(255, 0, 0);
 }
