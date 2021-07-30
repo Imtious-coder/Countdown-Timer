@@ -3,6 +3,40 @@
 }
 
 body {
+    background: url(./BG.jpg);
     font-family: 'Poppins', sans-serif;
+    min-height: 500px;
+    width: 100%;
+    background-size: cover;
     margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 4rem;
+    font-weight: normal;
+}
+
+.countdown_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.big_text {
+    font-size: 6rem;
+    line-height: 2;
+    margin: 0px 2rem;
+    font-weight: bold;
+}
+
+.countdown-el {
+    text-align: center;
+}
+
+.countdown-el span {
+    font-size: 1.3rem;
 }
