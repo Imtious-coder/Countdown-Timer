@@ -4,7 +4,7 @@
 
 <a  href="https://dreamy-curran-97dd26.netlify.app/"><img  width="100%"  height="100%"  src="./image.png"/></a>
 
-## A countdown website with static data. It can count every remaining sedconds.
+## A countdown website with static data. It can count every remaining seconds.
 
 * Countdown Functionality.
 * Count: Days, Hours, Minutes, and Seconds. 
@@ -13,6 +13,6 @@
 * Well commented code.
 
 
-#### Tech and Tools: JavaScript, ES6+, HTML5, CSS3 and Git
+#### Tech and Tools: JavaScript || ES6+ || HTML5 || CSS3 || Git
 
 ###### Imtious Islam
